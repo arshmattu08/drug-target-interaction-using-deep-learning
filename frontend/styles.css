@@ -1,0 +1,29 @@
+/* App background */
+.stApp {
+    background-color: #c9c777;
+}
+
+/* title */
+
+.title{
+    font-size: 50px;
+    font-weight: 500;
+    text-align: center;
+}
+
+/* Labels */
+label {
+    font-size: 15px !important;
+    color: rgb(8, 8, 8) !important;
+}
+
+/* Text inputs */
+input {
+    font-size: 18px !important;
+}
+
+/* Buttons */
+button {
+    font-size: 18px !important;
+    padding: 10px 24px !important;
+}
