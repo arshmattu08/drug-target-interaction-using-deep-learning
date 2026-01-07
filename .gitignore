@@ -5,3 +5,6 @@ dti_env
 # Misc.
 .vscode
 
+# env file
+.env
+

@@ -7,7 +7,7 @@
 
 .title{
     font-size: 50px;
-    font-weight: 500;
+    font-weight: 700;
     text-align: center;
 }
 
@@ -27,3 +27,67 @@ button {
     font-size: 18px !important;
     padding: 10px 24px !important;
 }
+
+.success-box {
+    background-color: #ffffff;
+    color: #000000;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 14px 20px;
+    border-radius: 10px;
+    margin-top: 12px;
+}
+
+.weak {
+    background-color: #ffffff;
+    color: #ce1717;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 14px 20px;
+    border-radius: 10px;
+    margin-top: 12px;
+}
+
+.moderately-weak {
+    background-color: #ffffff;
+    color: #cfab63;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 14px 20px;
+    border-radius: 10px;
+    margin-top: 12px;
+}
+
+.moderate {
+    background-color: #ffffff;
+    color: #cac833;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 14px 20px;
+    border-radius: 10px;
+    margin-top: 12px;
+}
+
+.moderately-strong {
+    background-color: #f2f2f2;
+    color: #44ee50;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 14px 20px;
+    border-radius: 10px;
+    margin-top: 12px;
+}
+
+.strong {
+    background-color: #fcfcfc;
+    color: #2b882e;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 14px 20px;
+    border-radius: 10px;
+    margin-top: 12px;
+}
+
+
+
+
